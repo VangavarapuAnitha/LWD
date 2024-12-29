@@ -1,0 +1,8 @@
+{
+    "DB_USER":"LWDUser",
+    "DB_PASSWORD":"Test@123",
+    "DB_SERVER":"Anitha\\SQLEXPRESS",
+    "DB_NAME":"LWD",
+    "encrypt": true,  
+  "trustServerCertificate": true  
+  }
